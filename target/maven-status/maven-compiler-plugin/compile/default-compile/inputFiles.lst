@@ -1,0 +1,17 @@
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/repository/RegistrationRepository.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/repository/UserRepository.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/CmsApplication.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/repository/ConferenceRepository.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/controller/ConferenceController.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/entity/Conference.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/util/FileUploadUtil.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/controller/AdminController.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/entity/Registration.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/controller/UserController.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/util/SessionUtil.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/entity/User.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/service/UserService.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/service/ConferenceService.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/entity/Submission.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/controller/AuthController.java
+/Users/sherwinemmanuelrodriguezp/Desktop/cms/src/main/java/com/example/cms/repository/SubmissionRepository.java
